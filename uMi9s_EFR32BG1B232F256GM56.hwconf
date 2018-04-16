@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ASCII"?>
+<device:XMLDevice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:device="http://www.silabs.com/ss/hwconfig/document/device.ecore" name="EFR32BG1B232F256GM56" partId="mcu.arm.efr32.bg1.efr32bg1b232f256gm56" contextId="com.silabs.sdk.stack.super:2.1.0._310455067">
+  <mode name="DefaultMode">
+    <property object="CMU" propertyId="ABPeripheral.included" value="true"/>
+    <property object="CMU" propertyId="CMU.BSP_CLK_HFXO_CTUNE.INT" value="346"/>
+    <property object="CMU" propertyId="CMU.BSP_CLK_HFXO_PRESENT.BOOL" value="1"/>
+    <property object="CMU" propertyId="CMU.BSP_CLK_LFXO_PRESENT.BOOL" value="1"/>
+    <property object="DCDC" propertyId="ABPeripheral.included" value="true"/>
+    <property object="DefaultMode" propertyId="mode.diagramLocation" value="100, 100"/>
+    <property object="GPIO" propertyId="ABPeripheral.included" value="true"/>
+    <property object="GPIO" propertyId="GPIO.BSP_TRACE_SWO.PIN" value="PF2"/>
+    <property object="I2C0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="I2C0" propertyId="I2C.BSP_I2C_SCL.PIN" value="PC10"/>
+    <property object="I2C0" propertyId="I2C.BSP_I2C_SDA.PIN" value="PC11"/>
+    <property object="PC10" propertyId="ports.settings.pinmode" value="Wired-and pullup filter"/>
+    <property object="PC11" propertyId="ports.settings.pinmode" value="Wired-and pullup filter"/>
+    <property object="PC6" propertyId="ports.settings.pinmode" value="Wired-or"/>
+    <property object="PD11" propertyId="ports.settings.pinmode" value="Wired-and pullup"/>
+    <property object="PORTIO" propertyId="portio.gpio.enable.swv" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.i2c0.enable.scl" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.i2c0.enable.sda" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.i2c0.location.i2c0_sclloc" value="14"/>
+    <property object="PORTIO" propertyId="portio.i2c0.location.i2c0_sdaloc" value="16"/>
+    <property object="PORTIO" propertyId="portio.timer1.location.timer1_cc0loc" value="5"/>
+    <property object="PORTIO" propertyId="portio.usart0.enable.cts" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.usart0.enable.rts" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.usart0.enable.rx" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.usart0.enable.tx" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.usart0.location.usart0_ctsloc" value="9"/>
+    <property object="PORTIO" propertyId="portio.usart0.location.usart0_rtsloc" value="9"/>
+    <property object="PORTIO" propertyId="portio.usart0.location.usart0_rxloc" value="10"/>
+    <property object="PORTIO" propertyId="portio.usart0.location.usart0_txloc" value="12"/>
+    <property object="USART0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="USART0" propertyId="USART.BSP_USART_CTS.PIN" value="PC8"/>
+    <property object="USART0" propertyId="USART.BSP_USART_MISO.PIN" value="PC6"/>
+    <property object="USART0" propertyId="USART.BSP_USART_MOSI.PIN" value="PC7"/>
+    <property object="USART0" propertyId="USART.BSP_USART_RTS.PIN" value="PC9"/>
+    <property object="USART0" propertyId="USART.BSP_USART_RX.PIN" value="PC6"/>
+    <property object="USART0" propertyId="USART.BSP_USART_TX.PIN" value="PC7"/>
+  </mode>
+  <modeTransition>
+    <property object="RESET &#x2192; DefaultMode" propertyId="modeTransition.source" value="RESET"/>
+    <property object="RESET &#x2192; DefaultMode" propertyId="modeTransition.target" value="DefaultMode"/>
+  </modeTransition>
+</device:XMLDevice>
