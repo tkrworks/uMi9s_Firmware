@@ -1,0 +1,1321 @@
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan10B1
+Parameter Address = 224
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan11B1
+Parameter Address = 256
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan12B1
+Parameter Address = 288
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan11A1
+Parameter Address = 320
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan12A1
+Parameter Address = 352
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan10B2
+Parameter Address = 225
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan11B2
+Parameter Address = 257
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan12B2
+Parameter Address = 289
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan11A2
+Parameter Address = 321
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan12A2
+Parameter Address = 353
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan10B3
+Parameter Address = 226
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan11B3
+Parameter Address = 258
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan12B3
+Parameter Address = 290
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan11A3
+Parameter Address = 322
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan12A3
+Parameter Address = 354
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan20B1
+Parameter Address = 229
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan21B1
+Parameter Address = 261
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan22B1
+Parameter Address = 293
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan21A1
+Parameter Address = 325
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan22A1
+Parameter Address = 357
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan20B2
+Parameter Address = 230
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan21B2
+Parameter Address = 262
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan22B2
+Parameter Address = 294
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan21A2
+Parameter Address = 326
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan22A2
+Parameter Address = 358
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan20B3
+Parameter Address = 231
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan21B3
+Parameter Address = 263
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan22B3
+Parameter Address = 295
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan21A3
+Parameter Address = 327
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ1
+Parameter Name    = PEQ1FilterChan22A3
+Parameter Address = 359
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg10B1
+Parameter Address = 387
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg11B1
+Parameter Address = 419
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg12B1
+Parameter Address = 451
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg11A1
+Parameter Address = 483
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg12A1
+Parameter Address = 515
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Sender    = CORE_CONTROL
+Parameter Name    = IC 1.CORE_CONTROL
+Parameter Address = 9
+Parameter Data :
+0x25, 
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg10B1
+Parameter Address = 227
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg11B1
+Parameter Address = 259
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg12B1
+Parameter Address = 291
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg11A1
+Parameter Address = 323
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg12A1
+Parameter Address = 355
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg20B1
+Parameter Address = 232
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg21B1
+Parameter Address = 264
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg22B1
+Parameter Address = 296
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg21A1
+Parameter Address = 328
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg22A1
+Parameter Address = 360
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Sender    = CORE_CONTROL
+Parameter Name    = IC 1.CORE_CONTROL
+Parameter Address = 9
+Parameter Data :
+0x05, 
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg20B1
+Parameter Address = 392
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg21B1
+Parameter Address = 424
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg22B1
+Parameter Address = 456
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg21A1
+Parameter Address = 488
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 1
+Parameter Name    = AllPoleFiltGainAlg22A1
+Parameter Address = 520
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan30B1
+Parameter Address = 234
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan31B1
+Parameter Address = 266
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan32B1
+Parameter Address = 298
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan31A1
+Parameter Address = 330
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan32A1
+Parameter Address = 362
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan30B2
+Parameter Address = 235
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan31B2
+Parameter Address = 267
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan32B2
+Parameter Address = 299
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan31A2
+Parameter Address = 331
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan32A2
+Parameter Address = 363
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan30B3
+Parameter Address = 236
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan31B3
+Parameter Address = 268
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan32B3
+Parameter Address = 300
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan31A3
+Parameter Address = 332
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan32A3
+Parameter Address = 364
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan40B1
+Parameter Address = 239
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan41B1
+Parameter Address = 271
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan42B1
+Parameter Address = 303
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan41A1
+Parameter Address = 335
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan42A1
+Parameter Address = 367
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan40B2
+Parameter Address = 240
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan41B2
+Parameter Address = 272
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan42B2
+Parameter Address = 304
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan41A2
+Parameter Address = 336
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan42A2
+Parameter Address = 368
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan40B3
+Parameter Address = 241
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan41B3
+Parameter Address = 273
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan42B3
+Parameter Address = 305
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan41A3
+Parameter Address = 337
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Param EQ2
+Parameter Name    = PEQ1FilterChan42A3
+Parameter Address = 369
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg30B1
+Parameter Address = 397
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg31B1
+Parameter Address = 429
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg32B1
+Parameter Address = 461
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg31A1
+Parameter Address = 493
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg32A1
+Parameter Address = 525
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Sender    = CORE_CONTROL
+Parameter Name    = IC 1.CORE_CONTROL
+Parameter Address = 9
+Parameter Data :
+0x25, 
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg30B1
+Parameter Address = 237
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg31B1
+Parameter Address = 269
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg32B1
+Parameter Address = 301
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg31A1
+Parameter Address = 333
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg32A1
+Parameter Address = 365
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg40B1
+Parameter Address = 242
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg41B1
+Parameter Address = 274
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg42B1
+Parameter Address = 306
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg41A1
+Parameter Address = 338
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg42A1
+Parameter Address = 370
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Sender    = CORE_CONTROL
+Parameter Name    = IC 1.CORE_CONTROL
+Parameter Address = 9
+Parameter Data :
+0x05, 
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg40B1
+Parameter Address = 402
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg41B1
+Parameter Address = 434
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg42B1
+Parameter Address = 466
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg41A1
+Parameter Address = 498
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Single 2
+Parameter Name    = AllPoleFiltGainAlg42A1
+Parameter Address = 530
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg60B1
+Parameter Address = 388
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg61B1
+Parameter Address = 420
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg62B1
+Parameter Address = 452
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg61A1
+Parameter Address = 484
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg62A1
+Parameter Address = 516
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Sender    = CORE_CONTROL
+Parameter Name    = IC 1.CORE_CONTROL
+Parameter Address = 9
+Parameter Data :
+0x25, 
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg60B1
+Parameter Address = 228
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg61B1
+Parameter Address = 260
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg62B1
+Parameter Address = 292
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg61A1
+Parameter Address = 324
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg62A1
+Parameter Address = 356
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg80B1
+Parameter Address = 233
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg81B1
+Parameter Address = 265
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg82B1
+Parameter Address = 297
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg81A1
+Parameter Address = 329
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg82A1
+Parameter Address = 361
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Sender    = CORE_CONTROL
+Parameter Name    = IC 1.CORE_CONTROL
+Parameter Address = 9
+Parameter Data :
+0x05, 
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg80B1
+Parameter Address = 393
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg81B1
+Parameter Address = 425
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg82B1
+Parameter Address = 457
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg81A1
+Parameter Address = 489
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain1
+Parameter Name    = AllPoleFiltGainAlg82A1
+Parameter Address = 521
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg70B1
+Parameter Address = 398
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg71B1
+Parameter Address = 430
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg72B1
+Parameter Address = 462
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg71A1
+Parameter Address = 494
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg72A1
+Parameter Address = 526
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Sender    = CORE_CONTROL
+Parameter Name    = IC 1.CORE_CONTROL
+Parameter Address = 9
+Parameter Data :
+0x25, 
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg70B1
+Parameter Address = 238
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg71B1
+Parameter Address = 270
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg72B1
+Parameter Address = 302
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg71A1
+Parameter Address = 334
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg72A1
+Parameter Address = 366
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg90B1
+Parameter Address = 243
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg91B1
+Parameter Address = 275
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg92B1
+Parameter Address = 307
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg91A1
+Parameter Address = 339
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg92A1
+Parameter Address = 371
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Sender    = CORE_CONTROL
+Parameter Name    = IC 1.CORE_CONTROL
+Parameter Address = 9
+Parameter Data :
+0x05, 
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg90B1
+Parameter Address = 403
+Parameter Value   = 1
+Parameter Data :
+0x08 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg91B1
+Parameter Address = 435
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg92B1
+Parameter Address = 467
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg91A1
+Parameter Address = 499
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Cell Name         = Gain2
+Parameter Name    = AllPoleFiltGainAlg92A1
+Parameter Address = 531
+Parameter Value   = 0
+Parameter Data :
+0x00 ,	0x00 ,	0x00 ,	0x00 ,	
+
+
+
+Parameter data for: IC 1 (Hexadecimal format starting at parameter address 0)
+See also umi9s.hex file
+
+Parameter data for: IC 1 (Binary format starting at parameter address 0)
+

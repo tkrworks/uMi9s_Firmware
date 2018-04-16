@@ -1,0 +1,1808 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- *
+ * This software is distributed in the hope that it will be useful,
+ * but is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ *
+ * This software may only be used to program products purchased from
+ * Analog Devices for incorporation by you into audio products that
+ * are intended for resale to audio product end users. This software
+ * may not be distributed whole or in any part to third parties.
+ *
+ * Copyright ©2018 Analog Devices, Inc. All rights reserved.
+ */
+-->
+<!--SigmaStudio export XML file-->
+<Schematic>
+    <IC>
+        <Name>IC 1</Name>
+        <PartNumber>ADAU1772</PartNumber>
+        <Register>
+            <Name>IC 1.CORE_CONTROL</Name>
+            <Address>9</Address>
+            <Size>1</Size>
+            <Data>0x25, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.CORE_CONTROL</Name>
+            <Address>9</Address>
+            <Size>1</Size>
+            <Data>0x05, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.CORE_CONTROL</Name>
+            <Address>9</Address>
+            <Size>1</Size>
+            <Data>0x25, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.CORE_CONTROL</Name>
+            <Address>9</Address>
+            <Size>1</Size>
+            <Data>0x05, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.CORE_CONTROL</Name>
+            <Address>9</Address>
+            <Size>1</Size>
+            <Data>0x25, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.CORE_CONTROL</Name>
+            <Address>9</Address>
+            <Size>1</Size>
+            <Data>0x05, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.CORE_CONTROL</Name>
+            <Address>9</Address>
+            <Size>1</Size>
+            <Data>0x25, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.CORE_CONTROL</Name>
+            <Address>9</Address>
+            <Size>1</Size>
+            <Data>0x05, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.DAC0_VOLUME</Name>
+            <Address>47</Address>
+            <Size>1</Size>
+            <Data>0xFF, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.DAC1_VOLUME</Name>
+            <Address>48</Address>
+            <Size>1</Size>
+            <Data>0xFF, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.OP_STAGE_MUTES</Name>
+            <Address>49</Address>
+            <Size>1</Size>
+            <Data>0x0F, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PLL_CTRL0 Register</Name>
+            <Address>1</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PLL_CTRL1 Register</Name>
+            <Address>2</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PLL_CTRL2 Register</Name>
+            <Address>3</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PLL_CTRL3 Register</Name>
+            <Address>4</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PLL_CTRL4 Register</Name>
+            <Address>5</Address>
+            <Size>1</Size>
+            <Data>0x20, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PLL_CTRL5 Register</Name>
+            <Address>6</Address>
+            <Size>1</Size>
+            <Data>0x01, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.CORE_CONTROL</Name>
+            <Address>9</Address>
+            <Size>1</Size>
+            <Data>0x04, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.CORE_CONTROL</Name>
+            <Address>9</Address>
+            <Size>1</Size>
+            <Data>0x05, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.CLK_CONTROL Register</Name>
+            <Address>0</Address>
+            <Size>1</Size>
+            <Data>0x07, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.Delay</Name>
+            <Address>0</Address>
+            <Size>2</Size>
+            <Data>0x00, 0x05, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.CLKOUT_SEL Register</Name>
+            <Address>7</Address>
+            <Size>1</Size>
+            <Data>0x07, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.REGULATOR Register</Name>
+            <Address>8</Address>
+            <Size>1</Size>
+            <Data>0x01, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.CORE_CONTROL Register</Name>
+            <Address>9</Address>
+            <Size>1</Size>
+            <Data>0x05, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.SLEEP_INST Register</Name>
+            <Address>10</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.CORE_ENABLE Register</Name>
+            <Address>11</Address>
+            <Size>1</Size>
+            <Data>0x03, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.ABSREG0 Register</Name>
+            <Address>12</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.ABSREG1 Register</Name>
+            <Address>13</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.ABSREG2 Register</Name>
+            <Address>14</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.CORE_IN_MUX_0_1 Register</Name>
+            <Address>15</Address>
+            <Size>1</Size>
+            <Data>0x10, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.CORE_IN_MUX_2_3 Register</Name>
+            <Address>16</Address>
+            <Size>1</Size>
+            <Data>0x32, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.DAC_SOURCE_0_1 Register</Name>
+            <Address>17</Address>
+            <Size>1</Size>
+            <Data>0x10, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PDM_SOURCE_0_1 Register</Name>
+            <Address>18</Address>
+            <Size>1</Size>
+            <Data>0x32, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.SOUT_SOURCE_0_1 Register</Name>
+            <Address>19</Address>
+            <Size>1</Size>
+            <Data>0x54, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.SOUT_SOURCE_2_3 Register</Name>
+            <Address>20</Address>
+            <Size>1</Size>
+            <Data>0x76, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.SOUT_SOURCE_4_5 Register</Name>
+            <Address>21</Address>
+            <Size>1</Size>
+            <Data>0x54, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.SOUT_SOURCE_6_7 Register</Name>
+            <Address>22</Address>
+            <Size>1</Size>
+            <Data>0x76, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.ADC_SDATA_CH Register</Name>
+            <Address>23</Address>
+            <Size>1</Size>
+            <Data>0x04, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.ASRCO_SOURCE_0_1 Register</Name>
+            <Address>24</Address>
+            <Size>1</Size>
+            <Data>0x10, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.ASRCO_SOURCE_2_3 Register</Name>
+            <Address>25</Address>
+            <Size>1</Size>
+            <Data>0x32, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.ASRC_MODE Register</Name>
+            <Address>26</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.ADC_CONTROL0 Register</Name>
+            <Address>27</Address>
+            <Size>1</Size>
+            <Data>0x01, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.ADC_CONTROL1 Register</Name>
+            <Address>28</Address>
+            <Size>1</Size>
+            <Data>0x01, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.ADC_CONTROL2 Register</Name>
+            <Address>29</Address>
+            <Size>1</Size>
+            <Data>0x03, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.ADC_CONTROL3 Register</Name>
+            <Address>30</Address>
+            <Size>1</Size>
+            <Data>0x03, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.ADC0_VOLUME Register</Name>
+            <Address>31</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.ADC1_VOLUME Register</Name>
+            <Address>32</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.ADC2_VOLUME Register</Name>
+            <Address>33</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.ADC3_VOLUME Register</Name>
+            <Address>34</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PGA_CONTROL_0 Register</Name>
+            <Address>35</Address>
+            <Size>1</Size>
+            <Data>0x40, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PGA_CONTROL_1 Register</Name>
+            <Address>36</Address>
+            <Size>1</Size>
+            <Data>0x40, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PGA_CONTROL_2 Register</Name>
+            <Address>37</Address>
+            <Size>1</Size>
+            <Data>0x40, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PGA_CONTROL_3 Register</Name>
+            <Address>38</Address>
+            <Size>1</Size>
+            <Data>0x40, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PGA_STEP_CONTROL Register</Name>
+            <Address>39</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PGA_10DB_BOOST Register</Name>
+            <Address>40</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.POP_SUPPRESS Register</Name>
+            <Address>41</Address>
+            <Size>1</Size>
+            <Data>0x3F, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.TALKTHRU Register</Name>
+            <Address>42</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.TALKTHRU_GAIN0 Register</Name>
+            <Address>43</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.TALKTHRU_GAIN1 Register</Name>
+            <Address>44</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.MIC_BIAS Register</Name>
+            <Address>45</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.DAC_CONTROL1 Register</Name>
+            <Address>46</Address>
+            <Size>1</Size>
+            <Data>0x03, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.DAC0_VOLUME Register</Name>
+            <Address>47</Address>
+            <Size>1</Size>
+            <Data>0xFF, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.DAC1_VOLUME Register</Name>
+            <Address>48</Address>
+            <Size>1</Size>
+            <Data>0xFF, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.OP_STAGE_MUTES Register</Name>
+            <Address>49</Address>
+            <Size>1</Size>
+            <Data>0x0F, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.SAI_0 Register</Name>
+            <Address>50</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.SAI_1 Register</Name>
+            <Address>51</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.SOUT_CONTROL0 Register</Name>
+            <Address>52</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.SOUT_CONTROL1 Register</Name>
+            <Address>53</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PDM_OUT Register</Name>
+            <Address>54</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PDM_PATTERN Register</Name>
+            <Address>55</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.MODE_MP0 Register</Name>
+            <Address>56</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.MODE_MP1 Register</Name>
+            <Address>57</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.MODE_MP2 Register</Name>
+            <Address>58</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.MODE_MP3 Register</Name>
+            <Address>59</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.MODE_MP4 Register</Name>
+            <Address>60</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.MODE_MP5 Register</Name>
+            <Address>61</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.MODE_MP6 Register</Name>
+            <Address>62</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PB_VOL_SET Register</Name>
+            <Address>63</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PB_VOL_CONV Register</Name>
+            <Address>64</Address>
+            <Size>1</Size>
+            <Data>0x87, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.DEBOUNCE_MODE Register</Name>
+            <Address>65</Address>
+            <Size>1</Size>
+            <Data>0x05, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.RESERVED Register</Name>
+            <Address>66</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.OP_STAGE_CTRL Register</Name>
+            <Address>67</Address>
+            <Size>1</Size>
+            <Data>0x30, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.DECIM_PWR_MODES Register</Name>
+            <Address>68</Address>
+            <Size>1</Size>
+            <Data>0x0F, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.INTERP_PWR_MODES Register</Name>
+            <Address>69</Address>
+            <Size>1</Size>
+            <Data>0x0C, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.BIAS_CONTROL0 Register</Name>
+            <Address>70</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.BIAS_CONTROL1 Register</Name>
+            <Address>71</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PAD_CONTROL0 Register</Name>
+            <Address>72</Address>
+            <Size>1</Size>
+            <Data>0x7F, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PAD_CONTROL1 Register</Name>
+            <Address>73</Address>
+            <Size>1</Size>
+            <Data>0x1F, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PAD_CONTROL2 Register</Name>
+            <Address>74</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PAD_CONTROL3 Register</Name>
+            <Address>75</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PAD_CONTROL4 Register</Name>
+            <Address>76</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.PAD_CONTROL5 Register</Name>
+            <Address>77</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Program>
+            <Name>Program Data</Name>
+            <Address>128</Address>
+            <Size>64</Size>
+            <Data>0x00, 0x80, 0x00, 0x88, 0x00, 0x88, 0x00, 0x88, 0x00, 0x88, 0x01, 0x80, 0x00, 0x81, 0x00, 0x88, 0x00, 0x88, 0x00, 0x88, 0x00, 0x88, 0x01, 0x81, 0x00, 0x82, 0x00, 0x88, 0x00, 0x88, 0x00, 0x88, 0x00, 0x88, 0x01, 0x82, 0x00, 0x83, 0x00, 0x88, 0x00, 0x88, 0x00, 0x88, 0x00, 0x88, 0x01, 0x83, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, </Data>
+        </Program>
+        <Parameter>
+            <Name>Bank A Parameters</Name>
+            <Address>224</Address>
+            <Size>640</Size>
+            <Data>0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x7E, 0xCA, 0x9C, 0xD2, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x7E, 0xCA, 0x9C, 0xD2, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x7E, 0xCA, 0x9C, 0xD2, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x7E, 0xCA, 0x9C, 0xD2, 0x08, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, </Data>
+        </Parameter>
+        <Parameter>
+            <Name>Bank B Parameters</Name>
+            <Address>384</Address>
+            <Size>640</Size>
+            <Data>0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x7E, 0xCA, 0x9C, 0xD2, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x7E, 0xCA, 0x9C, 0xD2, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x7E, 0xCA, 0x9C, 0xD2, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x08, 0x00, 0x00, 0x00, 0x7E, 0xCA, 0x9C, 0xD2, 0x08, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, </Data>
+        </Parameter>
+        <Register>
+            <Name>IC 1.OP_STAGE_MUTES</Name>
+            <Address>49</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.DAC0_VOLUME</Name>
+            <Address>47</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Register>
+            <Name>IC 1.DAC1_VOLUME</Name>
+            <Address>48</Address>
+            <Size>1</Size>
+            <Data>0x00, </Data>
+        </Register>
+        <Module>
+            <CellName>Param EQ1</CellName>
+            <Algorithm>
+                <AlgoName>ALG0</AlgoName>
+                <DetailedName>PEQ1FilterChan1</DetailedName>
+                <Description>PEQ1Chan( 1 ) : Gain12[ 0 ],Q2[ 0.4 ],Boost2[ -20 ],Frequency12[ 20000 ],Type2[ 0 ];</Description>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan10B1</Name>
+                    <Type>Int32</Type>
+                    <Address>224</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan10B2</Name>
+                    <Type>Int32</Type>
+                    <Address>225</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan10B3</Name>
+                    <Type>Int32</Type>
+                    <Address>226</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan11B1</Name>
+                    <Type>Int32</Type>
+                    <Address>256</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan11B2</Name>
+                    <Type>Int32</Type>
+                    <Address>257</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan11B3</Name>
+                    <Type>Int32</Type>
+                    <Address>258</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan12B1</Name>
+                    <Type>Int32</Type>
+                    <Address>288</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan12B2</Name>
+                    <Type>Int32</Type>
+                    <Address>289</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan12B3</Name>
+                    <Type>Int32</Type>
+                    <Address>290</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan11A1</Name>
+                    <Type>Int32</Type>
+                    <Address>320</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan11A2</Name>
+                    <Type>Int32</Type>
+                    <Address>321</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan11A3</Name>
+                    <Type>Int32</Type>
+                    <Address>322</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan12A1</Name>
+                    <Type>Int32</Type>
+                    <Address>352</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan12A2</Name>
+                    <Type>Int32</Type>
+                    <Address>353</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan12A3</Name>
+                    <Type>Int32</Type>
+                    <Address>354</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+            </Algorithm>
+            <Algorithm>
+                <AlgoName>ALG1</AlgoName>
+                <DetailedName>PEQ1FilterChan2</DetailedName>
+                <Description>PEQ1Chan( 1 ) : Gain12[ 0 ],Q2[ 0.4 ],Boost2[ -20 ],Frequency12[ 20000 ],Type2[ 0 ];</Description>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan20B1</Name>
+                    <Type>Int32</Type>
+                    <Address>229</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan20B2</Name>
+                    <Type>Int32</Type>
+                    <Address>230</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan20B3</Name>
+                    <Type>Int32</Type>
+                    <Address>231</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan21B1</Name>
+                    <Type>Int32</Type>
+                    <Address>261</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan21B2</Name>
+                    <Type>Int32</Type>
+                    <Address>262</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan21B3</Name>
+                    <Type>Int32</Type>
+                    <Address>263</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan22B1</Name>
+                    <Type>Int32</Type>
+                    <Address>293</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan22B2</Name>
+                    <Type>Int32</Type>
+                    <Address>294</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan22B3</Name>
+                    <Type>Int32</Type>
+                    <Address>295</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan21A1</Name>
+                    <Type>Int32</Type>
+                    <Address>325</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan21A2</Name>
+                    <Type>Int32</Type>
+                    <Address>326</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan21A3</Name>
+                    <Type>Int32</Type>
+                    <Address>327</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan22A1</Name>
+                    <Type>Int32</Type>
+                    <Address>357</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan22A2</Name>
+                    <Type>Int32</Type>
+                    <Address>358</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan22A3</Name>
+                    <Type>Int32</Type>
+                    <Address>359</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+            </Algorithm>
+        </Module>
+        <Module>
+            <CellName>Single 1</CellName>
+            <Algorithm>
+                <AlgoName>ALG0</AlgoName>
+                <DetailedName>AllPoleFiltGainAlg1</DetailedName>
+                <Description>AllPoleFiltGain</Description>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg10B1</Name>
+                    <Type>Int32</Type>
+                    <Address>227</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg11B1</Name>
+                    <Type>Int32</Type>
+                    <Address>259</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg12B1</Name>
+                    <Type>Int32</Type>
+                    <Address>291</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg11A1</Name>
+                    <Type>Int32</Type>
+                    <Address>323</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg12A1</Name>
+                    <Type>Int32</Type>
+                    <Address>355</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg10B1</Name>
+                    <Type>Int32</Type>
+                    <Address>387</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg11B1</Name>
+                    <Type>Int32</Type>
+                    <Address>419</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg12B1</Name>
+                    <Type>Int32</Type>
+                    <Address>451</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg11A1</Name>
+                    <Type>Int32</Type>
+                    <Address>483</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg12A1</Name>
+                    <Type>Int32</Type>
+                    <Address>515</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+            </Algorithm>
+            <Algorithm>
+                <AlgoName>ALG1</AlgoName>
+                <DetailedName>AllPoleFiltGainAlg2</DetailedName>
+                <Description>AllPoleFiltGain</Description>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg20B1</Name>
+                    <Type>Int32</Type>
+                    <Address>232</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg21B1</Name>
+                    <Type>Int32</Type>
+                    <Address>264</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg22B1</Name>
+                    <Type>Int32</Type>
+                    <Address>296</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg21A1</Name>
+                    <Type>Int32</Type>
+                    <Address>328</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg22A1</Name>
+                    <Type>Int32</Type>
+                    <Address>360</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg20B1</Name>
+                    <Type>Int32</Type>
+                    <Address>392</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg21B1</Name>
+                    <Type>Int32</Type>
+                    <Address>424</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg22B1</Name>
+                    <Type>Int32</Type>
+                    <Address>456</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg21A1</Name>
+                    <Type>Int32</Type>
+                    <Address>488</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg22A1</Name>
+                    <Type>Int32</Type>
+                    <Address>520</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+            </Algorithm>
+        </Module>
+        <Module>
+            <CellName>Param EQ2</CellName>
+            <Algorithm>
+                <AlgoName>ALG0</AlgoName>
+                <DetailedName>PEQ1FilterChan3</DetailedName>
+                <Description>PEQ1Chan( 1 ) : Gain12[ 0 ],Q2[ 0.4 ],Boost2[ -20 ],Frequency12[ 20000 ],Type2[ 0 ];</Description>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan30B1</Name>
+                    <Type>Int32</Type>
+                    <Address>234</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan30B2</Name>
+                    <Type>Int32</Type>
+                    <Address>235</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan30B3</Name>
+                    <Type>Int32</Type>
+                    <Address>236</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan31B1</Name>
+                    <Type>Int32</Type>
+                    <Address>266</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan31B2</Name>
+                    <Type>Int32</Type>
+                    <Address>267</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan31B3</Name>
+                    <Type>Int32</Type>
+                    <Address>268</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan32B1</Name>
+                    <Type>Int32</Type>
+                    <Address>298</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan32B2</Name>
+                    <Type>Int32</Type>
+                    <Address>299</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan32B3</Name>
+                    <Type>Int32</Type>
+                    <Address>300</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan31A1</Name>
+                    <Type>Int32</Type>
+                    <Address>330</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan31A2</Name>
+                    <Type>Int32</Type>
+                    <Address>331</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan31A3</Name>
+                    <Type>Int32</Type>
+                    <Address>332</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan32A1</Name>
+                    <Type>Int32</Type>
+                    <Address>362</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan32A2</Name>
+                    <Type>Int32</Type>
+                    <Address>363</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan32A3</Name>
+                    <Type>Int32</Type>
+                    <Address>364</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+            </Algorithm>
+            <Algorithm>
+                <AlgoName>ALG1</AlgoName>
+                <DetailedName>PEQ1FilterChan4</DetailedName>
+                <Description>PEQ1Chan( 1 ) : Gain12[ 0 ],Q2[ 0.4 ],Boost2[ -20 ],Frequency12[ 20000 ],Type2[ 0 ];</Description>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan40B1</Name>
+                    <Type>Int32</Type>
+                    <Address>239</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan40B2</Name>
+                    <Type>Int32</Type>
+                    <Address>240</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan40B3</Name>
+                    <Type>Int32</Type>
+                    <Address>241</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan41B1</Name>
+                    <Type>Int32</Type>
+                    <Address>271</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan41B2</Name>
+                    <Type>Int32</Type>
+                    <Address>272</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan41B3</Name>
+                    <Type>Int32</Type>
+                    <Address>273</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan42B1</Name>
+                    <Type>Int32</Type>
+                    <Address>303</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan42B2</Name>
+                    <Type>Int32</Type>
+                    <Address>304</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan42B3</Name>
+                    <Type>Int32</Type>
+                    <Address>305</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan41A1</Name>
+                    <Type>Int32</Type>
+                    <Address>335</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan41A2</Name>
+                    <Type>Int32</Type>
+                    <Address>336</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan41A3</Name>
+                    <Type>Int32</Type>
+                    <Address>337</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan42A1</Name>
+                    <Type>Int32</Type>
+                    <Address>367</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan42A2</Name>
+                    <Type>Int32</Type>
+                    <Address>368</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>PEQ1FilterChan42A3</Name>
+                    <Type>Int32</Type>
+                    <Address>369</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+            </Algorithm>
+        </Module>
+        <Module>
+            <CellName>Single 2</CellName>
+            <Algorithm>
+                <AlgoName>ALG0</AlgoName>
+                <DetailedName>AllPoleFiltGainAlg3</DetailedName>
+                <Description>AllPoleFiltGain</Description>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg30B1</Name>
+                    <Type>Int32</Type>
+                    <Address>237</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg31B1</Name>
+                    <Type>Int32</Type>
+                    <Address>269</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg32B1</Name>
+                    <Type>Int32</Type>
+                    <Address>301</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg31A1</Name>
+                    <Type>Int32</Type>
+                    <Address>333</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg32A1</Name>
+                    <Type>Int32</Type>
+                    <Address>365</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg30B1</Name>
+                    <Type>Int32</Type>
+                    <Address>397</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg31B1</Name>
+                    <Type>Int32</Type>
+                    <Address>429</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg32B1</Name>
+                    <Type>Int32</Type>
+                    <Address>461</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg31A1</Name>
+                    <Type>Int32</Type>
+                    <Address>493</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg32A1</Name>
+                    <Type>Int32</Type>
+                    <Address>525</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+            </Algorithm>
+            <Algorithm>
+                <AlgoName>ALG1</AlgoName>
+                <DetailedName>AllPoleFiltGainAlg4</DetailedName>
+                <Description>AllPoleFiltGain</Description>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg40B1</Name>
+                    <Type>Int32</Type>
+                    <Address>242</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg41B1</Name>
+                    <Type>Int32</Type>
+                    <Address>274</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg42B1</Name>
+                    <Type>Int32</Type>
+                    <Address>306</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg41A1</Name>
+                    <Type>Int32</Type>
+                    <Address>338</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg42A1</Name>
+                    <Type>Int32</Type>
+                    <Address>370</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg40B1</Name>
+                    <Type>Int32</Type>
+                    <Address>402</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg41B1</Name>
+                    <Type>Int32</Type>
+                    <Address>434</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg42B1</Name>
+                    <Type>Int32</Type>
+                    <Address>466</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg41A1</Name>
+                    <Type>Int32</Type>
+                    <Address>498</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg42A1</Name>
+                    <Type>Int32</Type>
+                    <Address>530</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+            </Algorithm>
+        </Module>
+        <Module>
+            <CellName>Gain1</CellName>
+            <Algorithm>
+                <AlgoName>ALG0</AlgoName>
+                <DetailedName>AllPoleFiltGainAlg6</DetailedName>
+                <Description>AllPoleFiltGain</Description>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg60B1</Name>
+                    <Type>Int32</Type>
+                    <Address>228</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg61B1</Name>
+                    <Type>Int32</Type>
+                    <Address>260</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg62B1</Name>
+                    <Type>Int32</Type>
+                    <Address>292</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg61A1</Name>
+                    <Type>Int32</Type>
+                    <Address>324</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg62A1</Name>
+                    <Type>Int32</Type>
+                    <Address>356</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg60B1</Name>
+                    <Type>Int32</Type>
+                    <Address>388</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg61B1</Name>
+                    <Type>Int32</Type>
+                    <Address>420</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg62B1</Name>
+                    <Type>Int32</Type>
+                    <Address>452</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg61A1</Name>
+                    <Type>Int32</Type>
+                    <Address>484</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg62A1</Name>
+                    <Type>Int32</Type>
+                    <Address>516</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+            </Algorithm>
+            <Algorithm>
+                <AlgoName>ALG1</AlgoName>
+                <DetailedName>AllPoleFiltGainAlg8</DetailedName>
+                <Description>AllPoleFiltGain</Description>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg80B1</Name>
+                    <Type>Int32</Type>
+                    <Address>233</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg81B1</Name>
+                    <Type>Int32</Type>
+                    <Address>265</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg82B1</Name>
+                    <Type>Int32</Type>
+                    <Address>297</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg81A1</Name>
+                    <Type>Int32</Type>
+                    <Address>329</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg82A1</Name>
+                    <Type>Int32</Type>
+                    <Address>361</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg80B1</Name>
+                    <Type>Int32</Type>
+                    <Address>393</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg81B1</Name>
+                    <Type>Int32</Type>
+                    <Address>425</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg82B1</Name>
+                    <Type>Int32</Type>
+                    <Address>457</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg81A1</Name>
+                    <Type>Int32</Type>
+                    <Address>489</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg82A1</Name>
+                    <Type>Int32</Type>
+                    <Address>521</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+            </Algorithm>
+        </Module>
+        <Module>
+            <CellName>Gain2</CellName>
+            <Algorithm>
+                <AlgoName>ALG0</AlgoName>
+                <DetailedName>AllPoleFiltGainAlg7</DetailedName>
+                <Description>AllPoleFiltGain</Description>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg70B1</Name>
+                    <Type>Int32</Type>
+                    <Address>238</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg71B1</Name>
+                    <Type>Int32</Type>
+                    <Address>270</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg72B1</Name>
+                    <Type>Int32</Type>
+                    <Address>302</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg71A1</Name>
+                    <Type>Int32</Type>
+                    <Address>334</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg72A1</Name>
+                    <Type>Int32</Type>
+                    <Address>366</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg70B1</Name>
+                    <Type>Int32</Type>
+                    <Address>398</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg71B1</Name>
+                    <Type>Int32</Type>
+                    <Address>430</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg72B1</Name>
+                    <Type>Int32</Type>
+                    <Address>462</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg71A1</Name>
+                    <Type>Int32</Type>
+                    <Address>494</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg72A1</Name>
+                    <Type>Int32</Type>
+                    <Address>526</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+            </Algorithm>
+            <Algorithm>
+                <AlgoName>ALG1</AlgoName>
+                <DetailedName>AllPoleFiltGainAlg9</DetailedName>
+                <Description>AllPoleFiltGain</Description>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg90B1</Name>
+                    <Type>Int32</Type>
+                    <Address>243</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg91B1</Name>
+                    <Type>Int32</Type>
+                    <Address>275</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg92B1</Name>
+                    <Type>Int32</Type>
+                    <Address>307</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg91A1</Name>
+                    <Type>Int32</Type>
+                    <Address>339</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg92A1</Name>
+                    <Type>Int32</Type>
+                    <Address>371</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg90B1</Name>
+                    <Type>Int32</Type>
+                    <Address>403</Address>
+                    <Value>1</Value>
+                    <Size>4</Size>
+                    <Data>0x08, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg91B1</Name>
+                    <Type>Int32</Type>
+                    <Address>435</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg92B1</Name>
+                    <Type>Int32</Type>
+                    <Address>467</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg91A1</Name>
+                    <Type>Int32</Type>
+                    <Address>499</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+                <ModuleParameter>
+                    <Name>AllPoleFiltGainAlg92A1</Name>
+                    <Type>Int32</Type>
+                    <Address>531</Address>
+                    <Value>0</Value>
+                    <Size>4</Size>
+                    <Data>0x00, 0x00, 0x00, 0x00, </Data>
+                </ModuleParameter>
+            </Algorithm>
+        </Module>
+    </IC>
+</Schematic>

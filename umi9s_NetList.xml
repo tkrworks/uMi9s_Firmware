@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- *
+ * This software is distributed in the hope that it will be useful,
+ * but is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ *
+ * This software may only be used to program products purchased from
+ * Analog Devices for incorporation by you into audio products that
+ * are intended for resale to audio product end users. This software
+ * may not be distributed whole or in any part to third parties.
+ *
+ * Copyright © 2018 Analog Devices, Inc. All rights reserved.
+ */
+-->
+<!--NetList XML file-->
+<NetList>
+    <IC name=" IC 1 " type="ADAU1772">
+        <Schematic>
+            <Algorithm name="Input17721" friendlyname="1772 Input" cell="Input1 ">
+                <Link pin="O_C3_A0_P1_out" dir="out" link="Link0" />
+                <Link pin="O_C3_A0_P2_out" dir="out" link="Link2" />
+                <Link pin="O_C3_A0_P3_out" dir="out" link="Link8" />
+                <Link pin="O_C3_A0_P4_out" dir="out" link="Link9" />
+            </Algorithm>
+            <Algorithm name="PEQ1FilterChan1" friendlyname="PEQ1Chan" cell="Param EQ1 ">
+                <Link pin="I_C0_A0_P1_in" dir="in" link="Link0" />
+                <Link pin="O_C0_A0_P2_out" dir="out" link="Link1" />
+            </Algorithm>
+            <Algorithm name="PEQ1FilterChan2" friendlyname="PEQ1Chan" cell="Param EQ1 ">
+                <Link pin="I_C0_A1_P1_in" dir="in" link="Link2" />
+                <Link pin="O_C0_A1_P2_out" dir="out" link="Link3" />
+            </Algorithm>
+            <Algorithm name="PEQ1FilterChan3" friendlyname="PEQ1Chan" cell="Param EQ2 ">
+                <Link pin="I_C8_A0_P1_in" dir="in" link="Link8" />
+                <Link pin="O_C8_A0_P2_out" dir="out" link="Link6" />
+            </Algorithm>
+            <Algorithm name="PEQ1FilterChan4" friendlyname="PEQ1Chan" cell="Param EQ2 ">
+                <Link pin="I_C8_A1_P1_in" dir="in" link="Link9" />
+                <Link pin="O_C8_A1_P2_out" dir="out" link="Link7" />
+            </Algorithm>
+            <Algorithm name="AllPoleFiltGainAlg1" friendlyname="AllPoleFiltGain" cell="Single 1 ">
+                <Link pin="I_C17_A0_P1_in" dir="in" link="Link1" />
+                <Link pin="O_C17_A0_P2_out" dir="out" link="Link4" />
+            </Algorithm>
+            <Algorithm name="AllPoleFiltGainAlg2" friendlyname="AllPoleFiltGain" cell="Single 1 ">
+                <Link pin="I_C17_A1_P1_in" dir="in" link="Link3" />
+                <Link pin="O_C17_A1_P2_out" dir="out" link="Link5" />
+            </Algorithm>
+            <Algorithm name="AllPoleFiltGainAlg3" friendlyname="AllPoleFiltGain" cell="Single 2 ">
+                <Link pin="I_C24_A0_P1_in" dir="in" link="Link6" />
+                <Link pin="O_C24_A0_P2_out" dir="out" link="Link10" />
+            </Algorithm>
+            <Algorithm name="AllPoleFiltGainAlg4" friendlyname="AllPoleFiltGain" cell="Single 2 ">
+                <Link pin="I_C24_A1_P1_in" dir="in" link="Link7" />
+                <Link pin="O_C24_A1_P2_out" dir="out" link="Link11" />
+            </Algorithm>
+            <Algorithm name="AllPoleFiltGainAlg6" friendlyname="AllPoleFiltGain" cell="Gain1 ">
+                <Link pin="I_C66_A0_P1_in" dir="in" link="Link4" />
+                <Link pin="O_C66_A0_P2_out" dir="out" link="Link12" />
+            </Algorithm>
+            <Algorithm name="AllPoleFiltGainAlg8" friendlyname="AllPoleFiltGain" cell="Gain1 ">
+                <Link pin="I_C66_A1_P1_in" dir="in" link="Link5" />
+                <Link pin="O_C66_A1_P2_out" dir="out" link="Link13" />
+            </Algorithm>
+            <Algorithm name="AllPoleFiltGainAlg7" friendlyname="AllPoleFiltGain" cell="Gain2 ">
+                <Link pin="I_C69_A0_P1_in" dir="in" link="Link10" />
+                <Link pin="O_C69_A0_P2_out" dir="out" link="Link14" />
+            </Algorithm>
+            <Algorithm name="AllPoleFiltGainAlg9" friendlyname="AllPoleFiltGain" cell="Gain2 ">
+                <Link pin="I_C69_A1_P1_in" dir="in" link="Link11" />
+                <Link pin="O_C69_A1_P2_out" dir="out" link="Link15" />
+            </Algorithm>
+            <Algorithm name="Output17721" friendlyname="1772 output" cell="Output1 ">
+                <Link pin="I_C10_A0_P1_in" dir="in" link="Link12" />
+            </Algorithm>
+            <Algorithm name="Output17722" friendlyname="1772 output" cell="Output2 ">
+                <Link pin="I_C30_A0_P1_in" dir="in" link="Link13" />
+            </Algorithm>
+            <Algorithm name="Output17723" friendlyname="1772 output" cell="Output3 ">
+                <Link pin="I_C46_A0_P1_in" dir="in" link="Link14" />
+            </Algorithm>
+            <Algorithm name="Output17724" friendlyname="1772 output" cell="Output4 ">
+                <Link pin="I_C48_A0_P1_in" dir="in" link="Link15" />
+            </Algorithm>
+        </Schematic>
+    </IC>
+</NetList>
