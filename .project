@@ -19,259 +19,109 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>SigmaStudioFW.c</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/SigmaStudioFW.c</location>
-		</link>
-		<link>
-			<name>SigmaStudioFW.h</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/SigmaStudioFW.h</location>
-		</link>
-		<link>
-			<name>application_properties.c</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/application_properties.c</location>
-		</link>
-		<link>
-			<name>ble-configuration.h</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/ble-configuration.h</location>
-		</link>
-		<link>
-			<name>board_features.h</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/board_features.h</location>
-		</link>
-		<link>
-			<name>create_bl_files.bat</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/create_bl_files.bat</location>
-		</link>
-		<link>
-			<name>defines.h</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/defines.h</location>
-		</link>
-		<link>
-			<name>dmadrv_config.h</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/dmadrv_config.h</location>
-		</link>
-		<link>
-			<name>efr32bg1b232f256gm56.ld</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/efr32bg1b232f256gm56.ld</location>
-		</link>
-		<link>
-			<name>gatt.xml</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/gatt.xml</location>
-		</link>
-		<link>
-			<name>gatt_db.c</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/gatt_db.c</location>
-		</link>
-		<link>
-			<name>gatt_db.h</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/gatt_db.h</location>
-		</link>
-		<link>
-			<name>hal-config-app-common.h</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/hal-config-app-common.h</location>
-		</link>
-		<link>
-			<name>hal-config-board.h</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/hal-config-board.h</location>
-		</link>
-		<link>
-			<name>hal-config.h</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/hal-config.h</location>
-		</link>
-		<link>
-			<name>init_app.c</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/init_app.c</location>
-		</link>
-		<link>
-			<name>init_app.h</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/init_app.h</location>
-		</link>
-		<link>
-			<name>init_board.c</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/init_board.c</location>
-		</link>
-		<link>
-			<name>init_board.h</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/init_board.h</location>
-		</link>
-		<link>
-			<name>init_mcu.c</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/init_mcu.c</location>
-		</link>
-		<link>
-			<name>init_mcu.h</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/init_mcu.h</location>
-		</link>
-		<link>
-			<name>main.c</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/main.c</location>
-		</link>
-		<link>
-			<name>mpu9250.h</name>
-			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/mpu9250.h</location>
-		</link>
-		<link>
 			<name>startup_efr32bg1b.s</name>
 			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/Device/SiliconLabs/EFR32BG1B/Source/IAR/startup_efr32bg1b.s</locationURI>
+			<locationuri>studio_sdk_loc/platform/device/siliconlabs/efr32bg1b/source/iar/startup_efr32bg1b.s</locationuri>
 		</link>
 		<link>
-			<name>tempdrv_config.h</name>
+			<name>platform/cmsis/include/arm_common_tables.h</name>
 			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/tempdrv_config.h</location>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/arm_common_tables.h</locationuri>
 		</link>
 		<link>
-			<name>uMi9s.isc</name>
+			<name>platform/cmsis/include/arm_const_structs.h</name>
 			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/uMi9s.isc</location>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/arm_const_structs.h</locationuri>
 		</link>
 		<link>
-			<name>uartdrv_config.h</name>
+			<name>platform/cmsis/include/arm_math.h</name>
 			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/uartdrv_config.h</location>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/arm_math.h</locationuri>
 		</link>
 		<link>
-			<name>umi9s_IC_1.h</name>
+			<name>platform/cmsis/include/cmsis_armcc.h</name>
 			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/umi9s_IC_1.h</location>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/cmsis_armcc.h</locationuri>
 		</link>
 		<link>
-			<name>umi9s_IC_1_PARAM.h</name>
+			<name>platform/cmsis/include/cmsis_armcc_v6.h</name>
 			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/umi9s_IC_1_PARAM.h</location>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/cmsis_armcc_v6.h</locationuri>
 		</link>
 		<link>
-			<name>umi9s_IC_1_REG.h</name>
+			<name>platform/cmsis/include/cmsis_gcc.h</name>
 			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/umi9s_IC_1_REG.h</location>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/cmsis_gcc.h</locationuri>
 		</link>
 		<link>
-			<name>hal-config/hal-config.h</name>
+			<name>platform/cmsis/include/core_cm0.h</name>
 			<type>1</type>
-			<location>C:/Users/shun/SimplicityStudio/v4_workspace/uMi9s/hal-config/hal-config.h</location>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/core_cm0.h</locationuri>
 		</link>
 		<link>
-			<name>platform/CMSIS/Include/arm_common_tables.h</name>
+			<name>platform/cmsis/include/core_cm0plus.h</name>
 			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/arm_common_tables.h</locationURI>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/core_cm0plus.h</locationuri>
 		</link>
 		<link>
-			<name>platform/CMSIS/Include/arm_const_structs.h</name>
+			<name>platform/cmsis/include/core_cm3.h</name>
 			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/arm_const_structs.h</locationURI>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/core_cm3.h</locationuri>
 		</link>
 		<link>
-			<name>platform/CMSIS/Include/arm_math.h</name>
+			<name>platform/cmsis/include/core_cm4.h</name>
 			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/arm_math.h</locationURI>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/core_cm4.h</locationuri>
 		</link>
 		<link>
-			<name>platform/CMSIS/Include/cmsis_armcc.h</name>
+			<name>platform/cmsis/include/core_cm7.h</name>
 			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/cmsis_armcc.h</locationURI>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/core_cm7.h</locationuri>
 		</link>
 		<link>
-			<name>platform/CMSIS/Include/cmsis_armcc_V6.h</name>
+			<name>platform/cmsis/include/core_cmfunc.h</name>
 			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/cmsis_armcc_V6.h</locationURI>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/core_cmfunc.h</locationuri>
 		</link>
 		<link>
-			<name>platform/CMSIS/Include/cmsis_gcc.h</name>
+			<name>platform/cmsis/include/core_cminstr.h</name>
 			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/cmsis_gcc.h</locationURI>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/core_cminstr.h</locationuri>
 		</link>
 		<link>
-			<name>platform/CMSIS/Include/core_cm0.h</name>
+			<name>platform/cmsis/include/core_cmsimd.h</name>
 			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/core_cm0.h</locationURI>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/core_cmsimd.h</locationuri>
 		</link>
 		<link>
-			<name>platform/CMSIS/Include/core_cm0plus.h</name>
+			<name>platform/cmsis/include/core_sc000.h</name>
 			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/core_cm0plus.h</locationURI>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/core_sc000.h</locationuri>
 		</link>
 		<link>
-			<name>platform/CMSIS/Include/core_cm3.h</name>
+			<name>platform/cmsis/include/core_sc300.h</name>
 			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/core_cm3.h</locationURI>
-		</link>
-		<link>
-			<name>platform/CMSIS/Include/core_cm4.h</name>
-			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/core_cm4.h</locationURI>
-		</link>
-		<link>
-			<name>platform/CMSIS/Include/core_cm7.h</name>
-			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/core_cm7.h</locationURI>
-		</link>
-		<link>
-			<name>platform/CMSIS/Include/core_cmFunc.h</name>
-			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/core_cmFunc.h</locationURI>
-		</link>
-		<link>
-			<name>platform/CMSIS/Include/core_cmInstr.h</name>
-			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/core_cmInstr.h</locationURI>
-		</link>
-		<link>
-			<name>platform/CMSIS/Include/core_cmSimd.h</name>
-			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/core_cmSimd.h</locationURI>
-		</link>
-		<link>
-			<name>platform/CMSIS/Include/core_sc000.h</name>
-			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/core_sc000.h</locationURI>
-		</link>
-		<link>
-			<name>platform/CMSIS/Include/core_sc300.h</name>
-			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Include/core_sc300.h</locationURI>
+			<locationuri>studio_sdk_loc/platform/cmsis/include/core_sc300.h</locationuri>
 		</link>
 		<link>
 			<name>platform/bootloader/api/application_properties.h</name>
 			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/bootloader/api/application_properties.h</locationURI>
+			<locationuri>studio_sdk_loc/platform/bootloader/api/application_properties.h</locationuri>
 		</link>
 		<link>
 			<name>platform/emlib/inc/em_assert.h</name>
 			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/emlib/inc/em_assert.h</locationURI>
+			<locationuri>studio_sdk_loc/platform/emlib/inc/em_assert.h</locationuri>
 		</link>
 		<link>
 			<name>platform/emlib/inc/em_bus.h</name>
 			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/emlib/inc/em_bus.h</locationURI>
+			<locationuri>studio_sdk_loc/platform/emlib/inc/em_bus.h</locationuri>
 		</link>
 		<link>
 			<name>platform/emlib/inc/em_chip.h</name>
 			<type>1</type>
-			<locationURI>STUDIO_SDK_LOC/platform/emlib/inc/em_chip.h</locationURI>
+			<locationuri>studio_sdk_loc/platform/emlib/inc/em_chip.h</locationuri>
 		</link>
 		<link>
 			<name>platform/emlib/inc/em_cmu.h</name>
