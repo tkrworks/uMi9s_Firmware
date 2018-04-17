@@ -8,7 +8,7 @@
 
 "-p" 
 
-"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\CONFIG\debugger\SiliconLaboratories\EFR32BG1B232F256GM56.ddf" 
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0_2\arm\CONFIG\debugger\SiliconLaboratories\EFR32BG1B232F256GM56.ddf" 
 
 "--drv_verify_download" 
 
@@ -34,7 +34,7 @@
 
 "--drv_catch_exceptions=0xff0" 
 
-"--board_file=C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\config\flashloader\SiliconLaboratories\FlashGECKOP2.board" 
+"--board_file=C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0_2\arm\config\flashloader\SiliconLaboratories\FlashGECKOP2.board" 
 
 
 

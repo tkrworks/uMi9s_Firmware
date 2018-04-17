@@ -3060,6 +3060,9 @@
         <name>$PROJ_DIR$\main.c</name>
     </file>
     <file>
+        <name>$PROJ_DIR$\mpu9250.c</name>
+    </file>
+    <file>
         <name>$PROJ_DIR$\mpu9250.h</name>
     </file>
     <file>
