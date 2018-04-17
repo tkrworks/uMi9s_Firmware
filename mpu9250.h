@@ -1,8 +1,14 @@
 #ifndef _MPU9250_H_
 #define _MPU9250_H_
 
+#include <string.h>
+#include "i2cspm.h"
+
+//Device Address
+#define MPU9250_ADDRESS 0x68
+#define AK8963_ADDRESS  0x0C
+
 //Magnetometer Registers
-#define AK8963_ADDRESS   0x0C
 #define WHO_AM_I_AK8963  0x00//0x49 // (AKA WIA) should return 0x48
 #define INFO             0x01
 #define AK8963_ST1       0x02  // data ready status bit 0
@@ -151,5 +157,8 @@
 #define YA_OFFSET_L        0x7B
 #define ZA_OFFSET_H        0x7D
 #define ZA_OFFSET_L        0x7E
+
+void MPU9250_Init(void);
+void AK8963_Init(void);
 
 #endif
